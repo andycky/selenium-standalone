@@ -1,1 +1,1 @@
-web: selenium-standalone install && selenium-standalone start -- -port 7777
+web: selenium-standalone install && selenium-standalone start -- -port 5000
