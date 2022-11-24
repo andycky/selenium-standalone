@@ -6,5 +6,5 @@ module.exports = {
       baseURL: 'http://www.google.fr',
     },
   },
-  seleniumArgs: ['--test=1', '-flag'],
+  seleniumArgs: [''-port', '5000'', '-flag'],
 };
